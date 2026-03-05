@@ -1,0 +1,128 @@
+{
+  "workbench.colorCustomizations": {
+    "foreground": "#d6f5dc",
+    "focusBorder": "#2ea043",
+
+    "editor.background": "#051708",
+    "editor.foreground": "#d6f5dc",
+    "editorLineNumber.foreground": "#5f8f69",
+    "editorLineNumber.activeForeground": "#9bdcab",
+    "editorCursor.foreground": "#ffffff",
+    "editor.selectionBackground": "#1f6f3a",
+    "editor.inactiveSelectionBackground": "#143a1f",
+    "editor.lineHighlightBackground": "#0c2412",
+
+    "editorWidget.background": "#0c2412",
+    "editorWidget.border": "#1b3a22",
+
+    "editorHoverWidget.background": "#103018",
+    "editorHoverWidget.border": "#1b3a22",
+
+    "editorSuggestWidget.background": "#103018",
+    "editorSuggestWidget.border": "#1b3a22",
+    "editorSuggestWidget.selectedBackground": "#1f6f3a",
+
+    "panel.background": "#0c2412",
+    "panel.border": "#1b3a22",
+    "panelTitle.activeForeground": "#d6f5dc",
+
+    "sideBar.background": "#061409",
+    "sideBar.foreground": "#d6f5dc",
+    "sideBar.border": "#1b3a22",
+
+    "activityBar.background": "#07160a",
+    "activityBar.foreground": "#d6f5dc",
+    "activityBar.inactiveForeground": "#6b9a75",
+    "activityBar.border": "#1b3a22",
+
+    "titleBar.activeBackground": "#07160b",
+    "titleBar.activeForeground": "#d6f5dc",
+    "titleBar.inactiveBackground": "#081b0c",
+
+    "tab.activeBackground": "#0c2412",
+    "tab.activeForeground": "#d6f5dc",
+    "tab.inactiveBackground": "#081b0c",
+    "tab.inactiveForeground": "#7fa88a",
+    "tab.border": "#1b3a22",
+
+    "statusBar.background": "#103018",
+    "statusBar.foreground": "#d6f5dc",
+    "statusBar.border": "#1b3a22",
+
+    "dropdown.background": "#103018",
+    "dropdown.foreground": "#d6f5dc",
+    "dropdown.border": "#1b3a22",
+
+    "list.activeSelectionBackground": "#1f6f3a",
+    "list.hoverBackground": "#143a1f",
+
+    "input.background": "#081b0c",
+    "input.foreground": "#d6f5dc",
+    "input.border": "#1b3a22",
+
+    "button.background": "#2ea043",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#3fb950",
+
+    "badge.background": "#2ea043",
+    "badge.foreground": "#ffffff",
+
+    "progressBar.background": "#2ea043",
+
+    "scrollbarSlider.background": "#1f6f3a88",
+    "scrollbarSlider.hoverBackground": "#2ea043aa",
+    "scrollbarSlider.activeBackground": "#3fb950cc",
+
+    "diffEditor.insertedTextBackground": "#163d1f",
+    "diffEditor.removedTextBackground": "#3d1616",
+
+    "gitDecoration.addedResourceForeground": "#2ea043",
+    "gitDecoration.modifiedResourceForeground": "#4cc2ff",
+    "gitDecoration.deletedResourceForeground": "#ff6b6b",
+
+    "errorForeground": "#ff6b6b",
+    "editorWarning.foreground": "#f2cc60",
+    "editorInfo.foreground": "#4cc2ff",
+
+    "minimap.background": "#081b0c",
+    "minimap.selectionHighlight": "#2ea04355",
+    "minimap.errorHighlight": "#ff6b6b",
+
+    "notebook.cellBorderColor": "#1b3a22",
+    "notebook.selectedCellBackground": "#0c2412",
+
+    "terminal.background": "#081b0c",
+    "terminal.foreground": "#d6f5dc",
+    "terminalCursor.foreground": "#ffffff",
+    "terminal.ansiBlack": "#081b0c",
+    "terminal.ansiRed": "#ff6b6b",
+    "terminal.ansiGreen": "#2ea043",
+    "terminal.ansiYellow": "#f2cc60",
+    "terminal.ansiBlue": "#4cc2ff",
+    "terminal.ansiMagenta": "#c678dd",
+    "terminal.ansiCyan": "#56d4dd",
+    "terminal.ansiWhite": "#d6f5dc",
+    "terminal.ansiBrightBlack": "#355f3e",
+    "terminal.ansiBrightRed": "#ff8787",
+    "terminal.ansiBrightGreen": "#3fb950",
+    "terminal.ansiBrightYellow": "#ffd866",
+    "terminal.ansiBrightBlue": "#6bd6ff",
+    "terminal.ansiBrightMagenta": "#d9a3ff",
+    "terminal.ansiBrightCyan": "#7de3eb",
+    "terminal.ansiBrightWhite": "#ffffff"
+  },
+
+  "security.workspace.trust.untrustedFiles": "open",
+  "python.defaultInterpreterPath": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+  "workbench.editor.empty.hint": "hidden",
+  "security.workspace.trust.startupPrompt": "always",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.productIconTheme": "feather-vscode",
+  "workbench.editor.enablePreview": false,
+  "workbench.settings.useSplitJSON": true,
+  "terminal.integrated.commandsToSkipShell": [
+    "workbench.colorCustomizations"
+  ]
+}
