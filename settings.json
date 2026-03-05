@@ -112,6 +112,15 @@
     "terminal.ansiBrightWhite": "#ffffff"
   },
 
+  "editor.tokenColorCustomizations": {
+    "comments": "#6b8e6b",
+    "keywords": "#a3ff70",
+    "functions": "#56dd66",
+    "strings": "#b8c919",
+    "variables": "#00ff33",
+    "numbers": "#ceda1c",
+  }
+
   "security.workspace.trust.untrustedFiles": "open",
   "python.defaultInterpreterPath": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
   "workbench.editor.empty.hint": "hidden",
