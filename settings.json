@@ -1,117 +1,4 @@
 {
-  "workbench.colorCustomizations": {
-    "foreground": "#d6f5dc",
-    "focusBorder": "#2ea043",
-
-    "editor.background": "#030904",
-    "editor.foreground": "#d6f5dc",
-    "editorLineNumber.foreground": "#4b6b55",
-    "editorLineNumber.activeForeground": "#7fbf92",
-    "editorCursor.foreground": "#ffffff",
-    "editor.selectionBackground": "#1a4e2b",
-    "editor.inactiveSelectionBackground": "#0f250f",
-    "editor.lineHighlightBackground": "#051807",
-
-    "editorWidget.background": "#051807",
-    "editorWidget.border": "#1b3a22",
-
-    "editorHoverWidget.background": "#06110a",
-    "editorHoverWidget.border": "#1b3a22",
-
-    "editorSuggestWidget.background": "#06110a",
-    "editorSuggestWidget.border": "#1b3a22",
-    "editorSuggestWidget.selectedBackground": "#1a4e2b",
-
-    "panel.background": "#051807",
-    "panel.border": "#1b3a22",
-    "panelTitle.activeForeground": "#d6f5dc",
-
-    "sideBar.background": "#040d06",
-    "sideBar.foreground": "#d6f5dc",
-    "sideBar.border": "#1b3a22",
-
-    "activityBar.background": "#040f05",
-    "activityBar.foreground": "#d6f5dc",
-    "activityBar.inactiveForeground": "#5f9c71",
-    "activityBar.border": "#1b3a22",
-
-    "titleBar.activeBackground": "#040f05",
-    "titleBar.activeForeground": "#d6f5dc",
-    "titleBar.inactiveBackground": "#051206",
-
-    "tab.activeBackground": "#051807",
-    "tab.activeForeground": "#d6f5dc",
-    "tab.inactiveBackground": "#051206",
-    "tab.inactiveForeground": "#7fa88a",
-    "tab.border": "#1b3a22",
-
-    "statusBar.background": "#06110a",
-    "statusBar.foreground": "#d6f5dc",
-    "statusBar.border": "#1b3a22",
-
-    "dropdown.background": "#06110a",
-    "dropdown.foreground": "#d6f5dc",
-    "dropdown.border": "#1b3a22",
-
-    "list.activeSelectionBackground": "#1a4e2b",
-    "list.hoverBackground": "#0f250f",
-
-    "input.background": "#051206",
-    "input.foreground": "#d6f5dc",
-    "input.border": "#1b3a22",
-
-    "button.background": "#2ea043",
-    "button.foreground": "#ffffff",
-    "button.hoverBackground": "#3fb950",
-
-    "badge.background": "#2ea043",
-    "badge.foreground": "#ffffff",
-
-    "progressBar.background": "#2ea043",
-
-    "scrollbarSlider.background": "#1a4e2b88",
-    "scrollbarSlider.hoverBackground": "#2ea043aa",
-    "scrollbarSlider.activeBackground": "#3fb950cc",
-
-    "diffEditor.insertedTextBackground": "#0f2515",
-    "diffEditor.removedTextBackground": "#3a1111",
-
-    "gitDecoration.addedResourceForeground": "#2ea043",
-    "gitDecoration.modifiedResourceForeground": "#4cc2ff",
-    "gitDecoration.deletedResourceForeground": "#ff6b6b",
-
-    "errorForeground": "#ff6b6b",
-    "editorWarning.foreground": "#f2cc60",
-    "editorInfo.foreground": "#4cc2ff",
-
-    "minimap.background": "#051206",
-    "minimap.selectionHighlight": "#2ea04355",
-    "minimap.errorHighlight": "#ff6b6b",
-
-    "notebook.cellBorderColor": "#1b3a22",
-    "notebook.selectedCellBackground": "#051807",
-
-    "terminal.background": "#051206",
-    "terminal.foreground": "#d6f5dc",
-    "terminalCursor.foreground": "#ffffff",
-    "terminal.ansiBlack": "#030904",
-    "terminal.ansiRed": "#ff6b6b",
-    "terminal.ansiGreen": "#2ea043",
-    "terminal.ansiYellow": "#f2cc60",
-    "terminal.ansiBlue": "#4cc2ff",
-    "terminal.ansiMagenta": "#c678dd",
-    "terminal.ansiCyan": "#56d4dd",
-    "terminal.ansiWhite": "#d6f5dc",
-    "terminal.ansiBrightBlack": "#234d3a",
-    "terminal.ansiBrightRed": "#ff8787",
-    "terminal.ansiBrightGreen": "#3fb950",
-    "terminal.ansiBrightYellow": "#ffd866",
-    "terminal.ansiBrightBlue": "#6bd6ff",
-    "terminal.ansiBrightMagenta": "#d9a3ff",
-    "terminal.ansiBrightCyan": "#7de3eb",
-    "terminal.ansiBrightWhite": "#ffffff"
-  },
-
   "editor.tokenColorCustomizations": {
     "comments": "#6b8e6b",
     "keywords": "#a3ff70",
@@ -133,5 +20,16 @@
   "workbench.settings.useSplitJSON": true,
   "terminal.integrated.commandsToSkipShell": [
     "workbench.colorCustomizations"
-  ]
+  ],
+  "editor.accessibilitySupport": "off",
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "chat.sendElementsToChat.enabled": false,
+  "explorer.confirmPasteNative": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
 }
